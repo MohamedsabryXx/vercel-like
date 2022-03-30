@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vercel-like/static/css/main.732a6388.css",
+    "main.js": "/vercel-like/static/js/main.1d01944d.js",
+    "static/media/rings.svg": "/vercel-like/static/media/rings.9372214c3870afac532a60f02a206233.svg",
+    "static/media/videobg.webp": "/vercel-like/static/media/videobg.13b9e11458786a035421.webp",
+    "static/media/image.svg": "/vercel-like/static/media/image.282fb8841053eba8f99111c8a93117ac.svg",
+    "index.html": "/vercel-like/index.html",
+    "main.732a6388.css.map": "/vercel-like/static/css/main.732a6388.css.map",
+    "main.1d01944d.js.map": "/vercel-like/static/js/main.1d01944d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732a6388.css",
+    "static/js/main.1d01944d.js"
+  ]
+}
